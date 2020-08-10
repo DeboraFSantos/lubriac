@@ -1033,6 +1033,15 @@ table {
 	margin: 0;
 }
 
+
+.footer-distributed .footer-company-name a{
+	color:  #8f9296;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: normal;
+    font-weight: 800;
+    margin: 0;
+}
 /* Footer Center */
 
 .footer-distributed .footer-center{
